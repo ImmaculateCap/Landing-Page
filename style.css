@@ -33,6 +33,9 @@ p2{
   border-radius: 0 10px 10px 0;
   border: 2px solid red;
 }
+#Reviews{
+  color:white;
+}
 
 form input[type="button"]:active {
   border: 2px solid rgb(163, 0, 0);
