@@ -1,0 +1,64 @@
+body {
+  background-image: url("Spider-ManBG.jpg");
+  background-size: cover;
+}
+
+p{
+  font-family: 'Zen Dots', cursive;
+  font-size: 20px;
+  line-height: 2;
+  margin-bottom: 2rem;
+  color:rgb(255, 255, 255);
+  padding: 0 1rem;
+  max-width: 500px;
+}
+
+p2{
+  font-family: 'Oswald', sans-serif;
+  color:white;
+  font-size: 40px;
+  margin-left: 42rem;
+}
+
+  form input[type=button]{
+  font-family: 'Zen Dots', cursive;
+  font-size: 2rem;
+  background-color: rgb(0, 0, 0);
+  color:rgb(221, 18, 18);
+  padding: 1rem 1rem;
+  border: 100;
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+  margin-left: 1rem; 
+  border-radius: 0 10px 10px 0;
+  border: 2px solid red;
+}
+
+form input[type="button"]:active {
+  border: 2px solid rgb(163, 0, 0);
+}
+
+hr { 
+  background-color: red; 
+  height: 1px; 
+  border: 0; 
+  margin-left: 1rem;
+  margin-right: 53rem;
+}
+
+#SMLOGO{
+  width: 550px;
+  padding: 0 1rem;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+}
+
+#PSLOGO{
+  width: 150px;
+  float: right;
+  padding: 25px;
+  margin-top: 4rem;
+}
+
+
+
